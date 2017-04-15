@@ -1,0 +1,7 @@
+.gradle/
+.idea/
+Application/Application.iml
+Application/build/
+BluetoothRobot.iml
+build/
+local.properties
